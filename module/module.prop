@@ -1,0 +1,6 @@
+id=aot-hyperos
+name=Ahead-Of-Time HyperOS Optimizer
+version=v1.0
+versionCode=100
+author=GustyxPower
+description=Enforces native AOSP execution speed, sub-1ms frame jitter, 120Hz VSYNC lock, and instant app launches on HyperOS.
